@@ -13,7 +13,7 @@ Welcome to my GitHub! 🚀 I’m currently **learning and exploring** Embedded S
 - **Embedded Systems Development:** Arduino Platform,Embedded C, and Microcontroller Programming.  
 - **IoT Projects:** Basics of home automation and access control with sensors + microcontrollers 
 - **Programming:** C, C++, Python and **Data Structures & Algorithms**.  
-- **CS Core Subjects:** DBMS, Operating Systems, Computer Networks, OOPs.
+- **CS Core Subjects:** Operating Systems, Computer Networks, OOPs.
 - **Generative AI (GenAI)**: Exploring concepts, applications, and tools in AI/ML 
 - **Prototyping & Simulation:** TinkerCAD, Proteus, and Arduino IDE for circuit design & testing.
 
