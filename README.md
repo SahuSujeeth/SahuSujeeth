@@ -8,7 +8,8 @@
 
 
 
-💡 **Embedded Systems Learner** | **IoT Explorer** | **Aspiring Engineer** | **GenAI Explorer**
+
+#💡 **Embedded Systems Learner** | **IoT Explorer** | **Aspiring Engineer** | **GenAI Explorer**
 
 Welcome to my GitHub! 🚀 I’m currently **learning and exploring** Embedded Systems, IoT, Generative AI, and Data Structures & Algorithms — step by step building my skills to become an innovative engineer who bridges **hardware and software** for real-world problem solving.
 
